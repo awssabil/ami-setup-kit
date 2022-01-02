@@ -1,0 +1,2 @@
+# ami-setup-kit
+kumo
